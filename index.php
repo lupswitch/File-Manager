@@ -3,9 +3,7 @@
  +---------------------------------------------------------------------------+
  | File Manager 0.4                                                          |
  +---------------------------------------------------------------------------+
- | Copyright (C) 2005 by the following author:                               |
- |                                                                           |
- | Author: James Wheaton, apoc_gfx@yahoo.com                                 |
+ | Author: James Wheaton                                                     |
  +---------------------------------------------------------------------------+
  |                                                                           |
  | This program is free software; you can redistribute it and/or             |
